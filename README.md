@@ -26,6 +26,7 @@ The purpose of this project identify content abusers currently using al-Jazeera'
 The data used in the following project stems directly from al-Jazeera's homepage (www.aljazeera.com).  Data was webscraped daily at 5 p.m for a period of two weeks during the Spring of 2017. 
 
 ## Analysis:
+See DAG and code.
 
 ## Results:
 Trolls on al-Jazeera can be classified in one of three categories: Business Trolls, Hate Speech Trolls, Sarcastic Trolls.
