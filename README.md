@@ -13,7 +13,12 @@ In regrards to content abusers, their impact can have minimal or long-term impac
 Al-Jazeera currently has a number of users who post irrelevant or inappropriate comments on their webpage. The media giant currently relies on other users to report inappropriate comments or spam; however, there is little incentive for other readers to "police" the website especially at scale.  As a result, many "troll" comments remain on the page creating an unhealthy social environment for people who may legtimately want to discuss an issue, ask a question, or have a meaningful discussion. 
 
 ## Current Solutions:
-Media companies and other major social media companies have approached the issue of trolls from different angles and with little consensus.  Some companies have decided to ban comments altogether such as U.S. media giant CNN:http://www.cnn.com/2014/11/21/tech/web/online-comment-sections/), others tolerate negative comments under the umbrella of “free speech, like Breitbart:http://www.breitbart.com/tech/2015/10/27/the-lefts-war-on-comment-sections/), others are hiring labor force to flag negative comments, like Facebook:http://www.npr.org/sections/thetwo-way/2017/05/03/526727711/facebook-plans-to-add-3-000-workers-to-monitor-remove-violent-content),  others leverage technology to curb the volume of negative comments, like Twitter: https://www.nytimes.com/2016/11/16/technology/twitter-adds-new-ways-to-curb-abuse-and-hate-speech.html?_r=0). 
+Media companies and other major social media companies have approached the issue of trolls from different angles and with little consensus.  Some companies have decided:
+
+1. Ban comments altogether such as U.S. media giant CNN:http://www.cnn.com/2014/11/21/tech/web/online-comment-sections/), 
+2. Others tolerate negative comments under the umbrella of “free speech, like Breitbart:http://www.breitbart.com/tech/2015/10/27/the-lefts-war-on-comment-sections/), 
+3. Others are hiring labor force to flag negative comments, like Facebook:http://www.npr.org/sections/thetwo-way/2017/05/03/526727711/facebook-plans-to-add-3-000-workers-to-monitor-remove-violent-content),  
+4. Others leverage technology to curb the volume of negative comments, like Twitter: https://www.nytimes.com/2016/11/16/technology/twitter-adds-new-ways-to-curb-abuse-and-hate-speech.html?_r=0). 
 
 Company policies regarding what to remove, censor, or flag are in constant flux, especially with the advent of new technologies that make it easier and more efficient to identify abusers.  However, many challenge still remain, and al-Jazeera is facing many of the same challenges its competitors are grappling with 
 
